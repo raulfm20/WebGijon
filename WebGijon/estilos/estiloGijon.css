@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(245, 131, 127);
+    text-align:justify;
+}
+div.escudo{
+   padding:150px;
+    background:url("../imagenes/Escudo_de_Gijon.png") repeat-x top right;
+}
+h1{
+    color:white;
+}
+h2{
+    color:red;
+}
+h3{
+    color:rgb(110, 15, 15)
+}
+p{
+    color:black;
+}
+table{
+    background-color:white;
+}
+thead{
+    background:rgb(66, 5, 5);
+    color:white
+}
+tbody.rural{
+border:5px black
+}
